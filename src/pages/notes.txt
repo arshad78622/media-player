@@ -1,0 +1,4 @@
+session storage and o-local storage:
+-------------------------------------
+-both are mostly similar storages provided by browser
+-
